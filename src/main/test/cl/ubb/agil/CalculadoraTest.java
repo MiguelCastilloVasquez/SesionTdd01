@@ -1,5 +1,8 @@
 package cl.ubb.agil;
 import static org.junit.Assert.*;
+
+import org.junit.Test;
+
 import static org.hamcrest.CoreMatchers.equalTo;
 
 public class CalculadoraTest {
